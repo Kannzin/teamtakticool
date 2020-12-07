@@ -1,4 +1,4 @@
-# teamtakticool
+# Castle Nathria Hand Holding
 Shriekwing
 - Hide behind pillar for cast.
 - Dodge orbs // if hit distance from team.
